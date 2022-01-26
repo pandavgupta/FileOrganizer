@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_project",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "pandav_gupta",
+  "license": "ISC",
+  "bin": {
+    "self_org": "main.js"
+  },
+  "description": "file system organizer"
+}
